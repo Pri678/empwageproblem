@@ -1,7 +1,7 @@
 #! /bin/bash -x
 
-
 #constant variable
+echo "Doing changes on rempte file"
 IS_PRESENT=1
 #variable
 randomCheck=$((RANDOM%2))
